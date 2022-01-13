@@ -1,0 +1,26 @@
+* {
+    background-color: rgb(91, 131, 206);
+}
+
+h1 {
+    color: goldenrod;
+    font-family: "Times New Roman", sans-serif;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+}
+
+h4 {
+    color: gold;
+    font-family: "Times New Roman", sans-serif;
+    font-size: 30px;
+    text-align: left;
+    font-weight: bold;
+}
+
+ul, p, ol {
+    color: yellow;
+    font-family: "Times New Roman", sans-serif;
+    font-size: 20px;
+    
+}
